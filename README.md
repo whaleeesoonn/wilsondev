@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Profile Views Badge -->
-![](https://komarev.com/ghpvc/?username=CoderWilskaii&color=43C6AC&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=whaleeesoonn&color=43C6AC&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -83,7 +83,7 @@ status: "Building things, breaking things, learning always."
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CoderWilskaiiii&theme=merko&hide_border=true&background=0d1117&stroke=43C6AC&ring=43C6AC&fire=f97316&currStreakLabel=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=whaleeesoonn&theme=merko&hide_border=true&background=0d1117&stroke=43C6AC&ring=43C6AC&fire=f97316&currStreakLabel=ffffff)](https://git.io/streak-stats)
 
 </div>
 
@@ -93,7 +93,7 @@ status: "Building things, breaking things, learning always."
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoderWilskaiiii&theme=matrix&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=whaleeesoonn&theme=matrix&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -103,7 +103,7 @@ status: "Building things, breaking things, learning always."
 
 <div align="center">
 
-![snake animation](https://github.com/CoderWilskaii/CoderWilskaiiii/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/CoderWilskaii/whaleeesoonn/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -146,7 +146,7 @@ jobs:
 
 <div align="center">
 
-[![Wilson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CoderWilskaiiii&bg_color=0d1117&color=43C6AC&line=43C6AC&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Wilson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whaleeesoonn&bg_color=0d1117&color=43C6AC&line=43C6AC&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
