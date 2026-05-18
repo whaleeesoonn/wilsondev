@@ -24,7 +24,7 @@ name: Wilson S. Gumilao
 alias: CoderWilskaii
 school: Central Philippines State University — DJVV San Carlos Campus
 degree: BS in Information Technology
-year: 2nd Year Student
+year: 3rd Year Student
 location: Philippines 🇵🇭
 status: "Building things, breaking things, learning always."
 ```
