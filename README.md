@@ -76,14 +76,14 @@ status: "Building things, breaking things, learning always."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoderWilskaii&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=43C6AC&icon_color=43C6AC&text_color=c9d1d9&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoderWilskaiiii&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=43C6AC&icon_color=43C6AC&text_color=c9d1d9&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderWilskaii&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=43C6AC&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CoderWilskaii&theme=merko&hide_border=true&background=0d1117&stroke=43C6AC&ring=43C6AC&fire=f97316&currStreakLabel=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CoderWilskaiiii&theme=merko&hide_border=true&background=0d1117&stroke=43C6AC&ring=43C6AC&fire=f97316&currStreakLabel=ffffff)](https://git.io/streak-stats)
 
 </div>
 
@@ -93,7 +93,7 @@ status: "Building things, breaking things, learning always."
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoderWilskaii&theme=matrix&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoderWilskaiiii&theme=matrix&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -103,7 +103,7 @@ status: "Building things, breaking things, learning always."
 
 <div align="center">
 
-![snake animation](https://github.com/CoderWilskaii/CoderWilskaii/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/CoderWilskaii/CoderWilskaiiii/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -146,7 +146,7 @@ jobs:
 
 <div align="center">
 
-[![Wilson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CoderWilskaii&bg_color=0d1117&color=43C6AC&line=43C6AC&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Wilson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CoderWilskaiiii&bg_color=0d1117&color=43C6AC&line=43C6AC&point=f97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
